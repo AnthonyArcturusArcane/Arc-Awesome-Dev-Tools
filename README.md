@@ -1,3 +1,6 @@
 # Arc-Awesome-Dev-Tools
 Just Some Tools I've Gathered While Learning!
-Krita, Frostbite, Havoc, Cry Engine, Blender, 
+## Krita
+A free painting software used for concept art, 2D animation, and photoshop.
+* FREE!
+* 
