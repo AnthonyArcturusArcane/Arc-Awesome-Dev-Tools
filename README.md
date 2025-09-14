@@ -74,19 +74,26 @@ Story writer and designer. Creates the main story of the game as well as each ch
 # Disiplines of Programming
 
 ## AI
+Behavioral Algorithm Programmer
 
 ## UI
+User Interface Programmer, Player hud, menus, and controls
+Job Title: UI Design
 
 ## Gameplay
+Mechanics Programmer, Rules of the game how they flow together
 
 ## Redering
+Graphics Programmer, how the game displays to the player in real time
 
 ## Engine
+The foundation of the game, the internal rule programmers, designing based on what game they are trying to make.
 
 ## Multiplayer
+Online and Interaction programmer, interactions between multiple players within the same enviroment of a game wether couch co-op or through online servers
 
 ## Physics
-
+Programming the algorithms of the world. How objects and players move and interact with each other as well as the envirment itself. 
 
 
 
