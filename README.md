@@ -1,4 +1,6 @@
 # Arc-Awesome-Dev-Tools
+
+# Tools
 Just Some Tools I've Gathered While Learning!
 
 ## Unity
@@ -45,4 +47,48 @@ Cons
 * Large file crashes
 * Tool limitations, Not as powerful or accurate as Photoshop
 * Small amounts of Latency
+
+
+
+# Career Pathways
+
+## Level Designer
+Creating the environment/s where the game will take place and placing assets and mechanics within them. You implement characters, stories, quests, and introduce mechanics within them along the with the map itself. 
+
+## Systems Designer
+Creating or choosing what system/s work best for the game. Identifying each component used to create the game and each key feature. Tuning the game to better enhance the player experience, whether through balance of in game mechanics or improving multiplayer performance.
+
+## AI Programmer
+Algorithm designer for behavoir within games such as enemy actions. Creates very complex algorithms that make the game play as it plays. Things like character movement, actions, reactions, and implementing their mechanics.  
+
+## Game Programmer
+Developers that make the game go. They use and create the engine that lets the game run and ensure all the code is in working order so that the game runs well. A key role in development for debugging and editing code.
+
+## Game Artist
+Creater of art for the game both 2D and 3D. Any art the game needs, objects, environments, characters, you name it.  
+
+## Narrative Designer
+Story writer and designer. Creates the main story of the game as well as each charcters story within it. Implements the story by creating quests and character dialogues as well as events within the game to tell and progress the story.
+
+
+# Disiplines of Programming
+
+## AI
+
+## UI
+
+## Gameplay
+
+## Redering
+
+## Engine
+
+## Multiplayer
+
+## Physics
+
+
+
+
+  
 
